@@ -1,0 +1,5 @@
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Model\bin\Debug\Practia.Cafe.Model.dll
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Model\bin\Debug\Practia.Cafe.Model.pdb
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Model\obj\Debug\Practia.Cafe.Model.csprojResolveAssemblyReference.cache
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Model\obj\Debug\Practia.Cafe.Model.dll
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Model\obj\Debug\Practia.Cafe.Model.pdb

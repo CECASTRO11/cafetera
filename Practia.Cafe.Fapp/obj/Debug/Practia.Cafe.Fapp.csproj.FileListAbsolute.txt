@@ -1,0 +1,11 @@
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\bin\Debug\Practia.Cafe.Fapp.exe.config
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\bin\Debug\Practia.Cafe.Fapp.exe
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\bin\Debug\Practia.Cafe.Fapp.pdb
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\bin\Debug\Practia.Cafe.Model.dll
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\bin\Debug\Practia.Cafe.Model.pdb
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\obj\Debug\Practia.Cafe.Fapp.csprojResolveAssemblyReference.cache
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\obj\Debug\Practia.Cafe.Fapp.Cafetera.resources
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\obj\Debug\Practia.Cafe.Fapp.Properties.Resources.resources
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\obj\Debug\Practia.Cafe.Fapp.csproj.GenerateResource.Cache
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\obj\Debug\Practia.Cafe.Fapp.exe
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.Cafe.Fapp\obj\Debug\Practia.Cafe.Fapp.pdb

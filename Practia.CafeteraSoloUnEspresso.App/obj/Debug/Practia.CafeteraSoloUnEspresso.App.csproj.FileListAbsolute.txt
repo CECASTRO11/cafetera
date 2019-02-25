@@ -1,0 +1,2 @@
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\bin\Debug\Practia.CafeteraSoloUnEspresso.App.exe.config
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\obj\Debug\Practia.CafeteraSoloUnEspresso.App.csprojResolveAssemblyReference.cache

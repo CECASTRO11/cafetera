@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Practia.Cafe.Model.Cafetera1">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Ingrediente" Type="Practia.Cafe.Model.Ingrediente">
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.329" Y="0.091" Height="0.182" Width="1.079" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Cliente" Type="Practia.Cafe.Model.Cliente" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.75" Y="4.825" />
+        <Point X="1.25" Y="4.825" />
+        <Point X="1.25" Y="4.257" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="-1.419" Y="0.339" Height="0.182" Width="0.816" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAACAAAAACAAABCAAAAABAAAEAgAAAAAQA=</HashCode>
+      <FileName>Cafetera.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Ingrediente" />
+      <Property Name="Cliente" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Practia.Cafe.Model.Cliente">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="Eleccion" Type="Practia.Cafe.Model.Eleccion" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.5" Y="2.25" />
+        <Point X="1.5" Y="1.188" />
+        <Point X="3" Y="1.188" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true" ManuallySized="true">
+        <Position X="0.592" Y="-0.994" Height="0.182" Width="0.826" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAABAAAAAAAAAAAAQAACAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Eleccion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Practia.Cafe.Model.Ingrediente">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAIAEAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ingrediente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Practia.Cafe.Model.Eleccion">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAEAAIAAAAAAAAEAIAAAAAA=</HashCode>
+      <FileName>Eleccion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

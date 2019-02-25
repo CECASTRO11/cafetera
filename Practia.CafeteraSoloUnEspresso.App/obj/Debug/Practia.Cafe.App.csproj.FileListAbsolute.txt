@@ -1,0 +1,8 @@
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\bin\Debug\Practia.CafeteraSoloUnEspresso.App.exe.config
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\obj\Debug\Practia.CafeteraSoloUnEspresso.App.exe
+c:\users\cecastro\documents\visual studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\obj\Debug\Practia.CafeteraSoloUnEspresso.App.pdb
+C:\Users\cecastro\Documents\Visual Studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\bin\Debug\Practia.CafeteraSoloUnEspresso.App.exe
+C:\Users\cecastro\Documents\Visual Studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\bin\Debug\Practia.CafeteraSoloUnEspresso.App.pdb
+C:\Users\cecastro\Documents\Visual Studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\bin\Debug\Practia.Cafe.Model.dll
+C:\Users\cecastro\Documents\Visual Studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\bin\Debug\Practia.Cafe.Model.pdb
+C:\Users\cecastro\Documents\Visual Studio 2015\Projects\Practia.Cafetera.Model\Practia.CafeteraSoloUnEspresso.App\obj\Debug\Practia.Cafe.App.csprojResolveAssemblyReference.cache
